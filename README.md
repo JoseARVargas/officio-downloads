@@ -7,7 +7,7 @@ Página oficial de download: **https://officio.net.br/downloads**
 
 | Plugin | Plataforma | Versão |
 |---|---|---|
-| Officio BIM para Revit | Autodesk Revit 2025, 2026 e 2027 | [1.0.0 (beta)](https://github.com/JoseARVargas/officio-downloads/releases/tag/revit-v1.0.0) |
+| Officio BIM para Revit | Autodesk Revit 2025, 2026 e 2027 | [1.1.0 (beta)](https://github.com/JoseARVargas/officio-downloads/releases/tag/revit-v1.1.0) |
 | Officio BIM para AutoCAD | AutoCAD 2025, 2026 e 2027, com Plant 3D, Civil 3D e Advance Steel | [1.0.0 (beta)](https://github.com/JoseARVargas/officio-downloads/releases/tag/autocad-v1.0.0) |
 
 ## Conferir o arquivo
@@ -15,7 +15,7 @@ Página oficial de download: **https://officio.net.br/downloads**
 Cada instalador vem com um arquivo `.sha256`. No PowerShell:
 
 ```powershell
-Get-FileHash .\Officio-Revit-1.0.0-Setup.exe -Algorithm SHA256
+Get-FileHash .\Officio-Revit-1.1.0-Setup.exe -Algorithm SHA256
 ```
 
 O hash precisa ser igual ao do arquivo `.sha256` da mesma release.
