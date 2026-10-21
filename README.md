@@ -8,7 +8,7 @@ Página oficial de download: **https://officio.net.br/downloads**
 | Plugin | Plataforma | Versão |
 |---|---|---|
 | Officio BIM para Revit | Autodesk Revit 2025, 2026 e 2027 | [1.2.0 (beta)](https://github.com/JoseARVargas/officio-downloads/releases/tag/revit-v1.2.0) |
-| Officio BIM para AutoCAD | AutoCAD 2025, 2026 e 2027, com Plant 3D, Civil 3D e Advance Steel | [1.1.2 (beta)](https://github.com/JoseARVargas/officio-downloads/releases/tag/autocad-v1.1.2) |
+| Officio BIM para AutoCAD | AutoCAD 2025, 2026 e 2027, com Plant 3D, Civil 3D e Advance Steel | [1.1.3 (beta)](https://github.com/JoseARVargas/officio-downloads/releases/tag/autocad-v1.1.3) |
 
 ## Conferir o arquivo
 
