@@ -17,7 +17,7 @@ Página oficial de download: **https://officio.net.br/downloads**
 Cada instalador vem com um arquivo `.sha256`. No PowerShell:
 
 ```powershell
-Get-FileHash .\Officio-Revit-1.4.0-Setup.exe -Algorithm SHA256
+Get-FileHash .\Officio-Revit-1.4.1-Setup.exe -Algorithm SHA256
 ```
 
 O hash precisa ser igual ao do arquivo `.sha256` da mesma release.
